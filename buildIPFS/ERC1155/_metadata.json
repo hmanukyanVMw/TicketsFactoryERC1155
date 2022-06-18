@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Shirak Football Club",
+    "description": "Shirak play football at Gyumri Stadium",
+    "edition": "fc_shirak",
+    "key": 0,
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_shirak.png"
+  },
+  {
+    "name": "Bananc Football Club",
+    "description": "Bananc play football at Bananc Stadium",
+    "edition": "fc_bananc",
+    "key": 1,
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_bananc.png"
+  },
+  {
+    "key": 2,
+    "name": "Pyunic Football Club",
+    "description": "Pyunic play football at Vazgen Sargsyan National stadium",
+    "edition": "fc_pyunic",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_pyunic.png"
+  },
+  {
+    "key": 3,
+    "name": "Alashkert Football Club",
+    "description": "Alashkert play football at Lori stadium",
+    "edition": "fc_alashkert",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 4,
+    "name": "Ararat Football Club",
+    "description": "Ararat play football at Vazgen Sargsyan National stadium",
+    "edition": "fc_ararat",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 5,
+    "name": "Real Madrid Football Club",
+    "description": "Real Madrid play football at Santiago Bernabeu stadium",
+    "edition": "fc_real_madrid",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 6,
+    "name": "Ganzasar Football Club",
+    "description": "Ganzasar play football at Kapan stadium",
+    "edition": "fc_ganzasar",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 7,
+    "name": "Lori Football Club",
+    "description": "Lori play football at Lori stadium",
+    "edition": "fc_lori",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 8,
+    "name": "Mika Football Club",
+    "description": "Mika play football at Mika stadium",
+    "edition": "fc_mika",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  },
+  {
+    "key": 9,
+    "name": "Ulic Football Club",
+    "description": "Ulic play football at Hrazdan stadium",
+    "edition": "fc_ulic",
+    "image": "ipfs://bafybeictbgnap6lbqcpgi3m2jrqorb2dq6jhaz22xkr7nsidhtcxap6oly/images/fc_real_madrid.png"
+  }
+]

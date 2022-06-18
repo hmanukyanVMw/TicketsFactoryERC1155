@@ -1,0 +1,13 @@
+.idea/*
+!.idea/runConfigurations
+!.idea/runConfigurations/*
+!.idea/dictionaries
+!.idea/dictionaries/*
+*.iml
+.blobs
+/tmp/*
+build
+fonts/
+/node_modules/
+package-lock.json
+.env

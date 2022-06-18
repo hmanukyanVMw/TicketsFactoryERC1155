@@ -1,0 +1,30 @@
+.commandsList {
+    list-style-type: none;
+    text-decoration: green;
+}
+
+.commandsList > li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.inputAmount {
+    width: 40%;
+    /*height: 32px;*/
+    /*font-size: 20px;*/
+    /*padding: 6px;*/
+}
+
+.buttonSuccess {
+    width: 100px;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: #52913c;
+    padding: 6px;
+}
+
+.App {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
